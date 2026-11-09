@@ -19,12 +19,12 @@ plugin:
     Base template for building CrafterCMS projects with Next.js.
   website:
     name: Next.js Blueprint
-    url: https://github.com/craftercms/nextjs-blueprint
+    url: https://github.com/craftersoftware/nextjs-blueprint
   media:
     screenshots:
       - title: Next.js
         description: Next.js
-        url: https://raw.githubusercontent.com/craftercms/nextjs-blueprint/master/.crafter/screenshots/default.png
+        url: https://raw.githubusercontent.com/craftersoftware/nextjs-blueprint/5/.crafter/screenshots/default.png
   developer:
     company:
       name: CrafterCMS
